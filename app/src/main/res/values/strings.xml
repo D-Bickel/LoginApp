@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="welcome">Welcome!</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="log_in">Log In!</string>
+    <string name="register">Register</string>
+    <string name="welcome_user">Welcome User!</string>
+    <string name="re_enter">Re-Enter Password</string>
+    <string name="go_back">Return</string>
+</resources>
